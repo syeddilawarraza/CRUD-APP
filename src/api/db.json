@@ -1,0 +1,18 @@
+{
+  "Restaurant": [
+    {
+      "id": "1",
+      "name": "Pizza Hut",
+      "address": "Nazimabad",
+      "rating": "4.5",
+      "email": "pizzahut@gmail.com"
+    },
+    {
+      "name": "al-hafiz",
+      "email": "alhafiz@gmail.com",
+      "rating": "6.7",
+      "address": "malir",
+      "id": "185e"
+    }
+  ]
+}

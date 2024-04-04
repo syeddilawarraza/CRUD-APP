@@ -1,0 +1,25 @@
+{
+  "Restaurant": [
+    {
+      "name": "Pizza Hut",
+      "email": "pizzahut@gmail.com",
+      "rating": "4.5",
+      "address": "malir",
+      "id": "1"
+    },
+    {
+      "name": "talah cafe",
+      "email": "talah@gmail@gmail.com",
+      "rating": "6.7",
+      "address": "maymar",
+      "id": "ee29"
+    },
+    {
+      "id": "de86",
+      "name": "aS",
+      "email": "AS",
+      "rating": "asA",
+      "address": "asASa"
+    }
+  ]
+}
